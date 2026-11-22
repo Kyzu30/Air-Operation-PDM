@@ -1,0 +1,5 @@
+# Copy this file to "db.properties" (same folder) and put YOUR MySQL password in it.
+# db.properties is listed in .gitignore, so your password never goes to the public repo.
+db.url=jdbc:mysql://localhost:3306/airport_operations?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Ho_Chi_Minh&characterEncoding=UTF-8
+db.user=root
+db.password=Kyzu2006@
